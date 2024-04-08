@@ -37,24 +37,24 @@ The assignment requires the development of a plate code prediction game using Py
 
 Image 1: Output when input is non-numeric value
 
-<img src="https://raw.githubusercontent.com/iremsilamadenli/PlateCodePrediction-TCPSocketProgramming/main/PlateCodePrediction/nonnumeric.png" height="200" />
+<img src="https://raw.githubusercontent.com/iremsilamadenli/PlateCodePredictionGame-TCPSocketProgramming/main/PlateCodePrediction/nonnumeric.png" height="200" />
 
 Image 2: Output when input is over 81
 
-<img src="https://raw.githubusercontent.com/iremsilamadenli/PlateCodePrediction-TCPSocketProgramming/main/PlateCodePrediction/range.png" height="200" />
+<img src="https://raw.githubusercontent.com/iremsilamadenli/PlateCodePredictionGame-TCPSocketProgramming/main/PlateCodePrediction/range.png" height="200" />
 
 Image 3: Output when input is “END”
 
-<img src="https://raw.githubusercontent.com/iremsilamadenli/PlateCodePrediction-TCPSocketProgramming/main/PlateCodePrediction/end.png" height="200" />
+<img src="https://raw.githubusercontent.com/iremsilamadenli/PlateCodePredictionGame-TCPSocketProgramming/main/PlateCodePrediction/end.png" height="200" />
 
 Image 4: Output when input is correct
 
-<img src="https://raw.githubusercontent.com/iremsilamadenli/PlateCodePrediction-TCPSocketProgramming/main/PlateCodePrediction/correct.png" height="200" />
+<img src="https://raw.githubusercontent.com/iremsilamadenli/PlateCodePredictionGame-TCPSocketProgramming/main/PlateCodePrediction/correct.png" height="200" />
 
 Image 5: Seeing the server part when more than one client connection
 
 
-<img src="https://raw.githubusercontent.com/iremsilamadenli/PlateCodePrediction-TCPSocketProgramming/main/PlateCodePrediction/moreclient.png" height="200" />
+<img src="https://raw.githubusercontent.com/iremsilamadenli/PlateCodePredictionGame-TCPSocketProgramming/main/PlateCodePrediction/moreclient.png" height="200" />
 
 
 ## Conclusion
